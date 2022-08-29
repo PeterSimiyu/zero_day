@@ -1,1 +1,2 @@
-Vagrant project
+Vagrant basics Ubuntu
+
